@@ -3,6 +3,8 @@ package com.atulioli.minhasfinancas;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//Classe principal do projeto com Spring Boot
+
 @SpringBootApplication
 public class MinhasfinancasApplication {
 
