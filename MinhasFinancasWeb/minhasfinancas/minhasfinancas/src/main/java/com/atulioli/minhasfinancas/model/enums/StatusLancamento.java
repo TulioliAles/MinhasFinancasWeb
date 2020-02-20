@@ -1,4 +1,4 @@
-package com.atulioli.minhasfinancas.model.entity;
+package com.atulioli.minhasfinancas.model.enums;
 
 public enum StatusLancamento {
 
